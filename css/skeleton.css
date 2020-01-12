@@ -35,6 +35,15 @@
   margin: 0 auto;
   padding: 0 20px;
   box-sizing: border-box; }
+
+.container-center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -50;
+  margin-top: -50; }
+
+
 .column,
 .columns {
   width: 100%;
